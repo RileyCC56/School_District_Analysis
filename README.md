@@ -1,6 +1,8 @@
 # PyCity Schools District Analysis
 
-The following school board of PyCity Schools has notified Maria that there has been evidence of academic dishonesty. The board believes that scores may have been altered within the Thomas High School ninth grade for reading and math. As the school board would like to uphold their state-testing stadards, Maria has asked if we can just replace the "altered" ninth grade math and reading scores from Thomas High School to produce the analysis we previously created for Maria. The previously created analysis portrayed the district summary, school summary, top and bottom performing schools based on passing rate, average math and reading score for each grade and school, and score by school spending per student, size and type.
+The following school board of PyCity Schools has notified Maria that there has been evidence of academic dishonesty. The board believes that scores may have been altered within the Thomas High School ninth grade for reading and math. As the school board would like to uphold their state-testing stadards, Maria has asked if we can just replace the "altered" ninth grade math and reading scores from Thomas High School to produce the analysis we previously created for Maria. 
+
+The previously created analysis portrayed the district summary, school summary, top and bottom performing schools based on passing rate, average math and reading score for each grade and school, and score by school spending per student, size and type.
 
 ## Results
 As the newly updated analysis now supplements all Thomas High School ninth grade math and reading scores the following summaries below have been modified.
