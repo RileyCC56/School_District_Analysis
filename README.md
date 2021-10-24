@@ -4,6 +4,9 @@ The following school board of PyCity Schools has notified Maria that there has b
 
 The previously created analysis portrayed the district summary, school summary, top and bottom performing schools based on passing rate, average math and reading score for each grade and school, and score by school spending per student, size and type.
 
+# Tools:
+Python, Pandas, Jupyter Notebook
+
 ## Results
 As the newly updated analysis now supplements all Thomas High School ninth grade math and reading scores the following summaries below have been modified.
 
